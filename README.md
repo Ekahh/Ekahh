@@ -4,10 +4,10 @@
 
 🧠 Computer Science Student at UPN Veteran Jakarta.<br/>
 🚀 Former Independent Study Mentee at Infinite Learning Indonesia.<br/>
-💻 I have many website ideas and strive to bring them to life.<br/>
+💻 Passionate about Web Development.<br/>
+💡 I have many website ideas and strive to bring them to life.<br/>
 🌱 I am part of the [Sahabat Tani Group](https://www.linkedin.com/company/104855742/admin/dashboard/), collaboratively developing the 'TanamanKu' web application.<br/>
-
-
+📈 Continuously striving to be better than yesterday.<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hhayykkall) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hhayykkall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haykalbaskoro) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HaykalIslam_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haykal.islam.b@gmail.com) 

@@ -1,4 +1,6 @@
-## Hi, NTMY! I'm Muhammad Haykal Islam Baskoro ✨
+<p align="center">
+    <h1>Hi, NTMY! I'm Muhammad Haykal Islam Baskoro ✨</h1>
+</p>
 
 🧠 Computer Science Student at UPN Veteran Jakarta.<br/>
 🚀 Former Independent Study Mentee at Infinite Learning Indonesia.<br/>
